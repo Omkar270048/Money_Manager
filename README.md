@@ -1,4 +1,6 @@
 # Money_Manager
+https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white
+</br>
 This app is to manage your daily expense record. This app is currently for Android devices.
 As we all know most of the people likes to take records of daily expenses. To do so the use book. some time there is a chance that you missed to enter some purchase,
 even you might make mistake in calculating total expence amount. calculating every thing again might make you feel frustrated or bored. if you forget to enter a data then
